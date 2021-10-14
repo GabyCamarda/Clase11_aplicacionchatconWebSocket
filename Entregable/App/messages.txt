@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "date": "14/10/2021 12:00:49",
+    "user": "Gaby",
+    "message": "Hola! Tengo una consulta para hacer."
+  },
+  {
+    "id": 2,
+    "date": "14/10/2021 10:00:54",
+    "user": "Cristobal",
+    "message": "😁"
+  }
+]
